@@ -1,0 +1,22 @@
+{
+  "name": "grabbyy",
+  "version": "1.0.0",
+  "description": "\"This app is your new foodie soulmate—serving up deliciousness for those who believe that life’s too short for boring bites. If you love good food, prepare to fall head over heels!\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arshad27jan/Grabbyy.git"
+  },
+  "keywords": [
+    "#foodiesmate"
+  ],
+  "author": "Arshad Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arshad27jan/Grabbyy/issues"
+  },
+  "homepage": "https://github.com/arshad27jan/Grabbyy#readme"
+}
